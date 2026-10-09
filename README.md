@@ -8,3 +8,7 @@ My hands-on cybersecurity learning lab, covering Linux, C++, networking, and sec
 - C++
 - Computer Memory
 - Cybersecurity Fundamentals
+
+## Usage
+git https://github.com/ryo-ji3636/cybersecurity_lab1.git
+
