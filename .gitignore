@@ -66,3 +66,13 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# macOS
+.DS_Store
+
+# Debug symbols
+*.dSYM/
+
+# Local compiled binaries
+memory/pointers/dangling
+memory/pointers/null_pointer
