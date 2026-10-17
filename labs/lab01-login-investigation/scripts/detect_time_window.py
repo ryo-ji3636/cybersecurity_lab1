@@ -3,7 +3,7 @@ from collections import defaultdict, deque
 from datetime import datetime, timedelta
 from pathlib import Path
 
-LOG_FILE = Path("data/auth.log")
+LOG_FILE = Path("data/test_auth.log")
 ALERT_THRESHOLD = 3
 WINDOW = timedelta(minutes=5)
 
